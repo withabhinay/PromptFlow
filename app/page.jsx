@@ -10,7 +10,7 @@ const Home = () => {
             <span className='orange_gradient text-center'> AI-Powered Prompts</span>
         </h1>
         <p className='desc text-center'>
-            Prompting is a platform for discovering and sharing AI-powered prompts. 
+            PromptFlow is a platform for discovering and sharing AI-powered prompts. 
             We hope that our prompts will inspire you to write, create, and share your work with the world.
         </p>
         <Feed />
