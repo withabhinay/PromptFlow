@@ -33,7 +33,7 @@ const MyProfile = () => {
             method: 'DELETE'
           });
           
-          const filteredPosts = MyPosts.filter((p)=> p._id !== post._id);
+          const filteredPosts = MyPosts.filter((p)=> p.id !== post._id);
           setMyPosts(filteredPosts);
       } catch(error) {
           console.log(error)
