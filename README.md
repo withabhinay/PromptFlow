@@ -118,8 +118,6 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-**Abhinay**
-
 - GitHub: [@withabhinay](https://github.com/withabhinay)
 - Website: [https://prompt-peer-flow.vercel.app/](https://prompt-peer-flow.vercel.app/)
 
@@ -132,4 +130,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
+- always open for pr's
+ 
 <p align="center">Made with ❤️ by Abhinay</p>
